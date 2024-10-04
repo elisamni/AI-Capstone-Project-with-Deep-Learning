@@ -48,6 +48,3 @@ A summary of the results and potential future work.
 2. Install the required packages.
 3. Run the Jupyter notebook to reproduce the results.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
